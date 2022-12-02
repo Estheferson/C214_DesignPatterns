@@ -28,5 +28,5 @@ https://github.com/Estheferson/C214_DesignPatterns.git
 ```
 
 ### ✒️ Autor:
-* **Estheferson Matheus Galvão Ribeiro** - [Teté](https://github.com/Estheferson)
+* **Estheferson Matheus Galvão Ribeiro - GEC 1511** - [Teté](https://github.com/Estheferson)
 
