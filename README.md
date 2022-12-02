@@ -8,7 +8,7 @@ Repositório para os exercícios de C214 - Engenharia de Software. Exercício pr
 - Gerenciador de dependências: Maven
 - Testes de unidade
 
-### :computer: Descricao Questão 1:
+### :computer: Descricao Questão 1_Strategy:
 Utilize o design pattern Strategy para implementar um sistema capaz
 de ordenar dados. O programa deverá permitir trocar o algoritmo de ordenação em
 tempo de execução. Utilize sua linguagem de programação favorita. Faça pelo menos
